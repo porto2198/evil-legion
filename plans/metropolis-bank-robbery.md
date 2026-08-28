@@ -73,3 +73,11 @@ el Proyecto Satélite Congelador. Monto objetivo: $750 millones.
 - _"Yo me encargo de Batman. Siempre me encargo de Batman."_ — Joker
 - _"Si Joker arruina otra misión, propongo que lo lancemos al volcán."_ — Magneto
 - _"Denegado. Por ahora."_ — Lex Luthor
+
+## Conclusión
+
+Es perfectamente posible que esta operación sea la más arriesgada de la historia de la Legión. Sin embargo, el potencial
+de éxito es enorme. Si logramos transferir los fondos, el Proyecto Satélite Congelador avanzará a la fase de
+construcción, acercándonos un paso más a nuestro objetivo final: el control global. La coordinación entre los miembros
+del equipo y la ejecución precisa de cada fase serán cruciales para el éxito de la misión. La Legión del Mal debe actuar
+con rapidez, sigilo y determinación.
