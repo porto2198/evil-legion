@@ -5,5 +5,8 @@
 
 ## ¿Quiénes somos?
 
-Somos la alianza más temida y poderosa del mundo, compuesta por los villanos más astutos y despiadados. Nuestra misión
-es dominar el mundo y eliminar a todos aquellos que se interpongan en nuestro camino.
+Somos la alianza más temida y poderosa del mundo, compuesta por los villanos más astutos y despiadados.
+
+## Miembros
+
+1. **Lex Luthor** - Fundador y líder supremo de la Legión del Mal. Experto en estrategia y manipulación.
