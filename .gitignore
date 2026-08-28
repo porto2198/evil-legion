@@ -1,2 +1,11 @@
 .idea/
+
 release-codes.env
+
+dist/
+node_modules/
+
+logs/server*.log
+!logs/server.log
+
+*.env
