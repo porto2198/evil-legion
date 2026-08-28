@@ -35,6 +35,7 @@ objetivo.
 - **Loki** — Engaño, ilusiones y diplomacia hostil
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
+- **Green Goblin** — Ingeniería de armas y vehículos aéreos
 
 ## Reglas de la Legión
 
