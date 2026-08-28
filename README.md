@@ -10,3 +10,4 @@ Somos la alianza más temida y poderosa del mundo, compuesta por los villanos m�
 ## Miembros
 
 1. **Lex Luthor** - Fundador y líder supremo de la Legión del Mal. Experto en estrategia y manipulación.
+2. **The Joker** - Maestro del caos y la anarquía, conocido por su risa siniestra y planes impredecibles.
