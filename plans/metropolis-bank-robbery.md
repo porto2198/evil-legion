@@ -66,6 +66,8 @@ el Proyecto Satélite Congelador. Monto objetivo: $750 millones.
 - **Ruta de emergencia:** Magneto extrae al equipo levitando el vehículo de escape por encima del tráfico
 - **Punto de reunión:** Fortaleza Prohibida, 48 horas después de la operación. Coordenadas en los códigos de
   lanzamiento, NO en este archivo.
+- Tenemos que asegurarnos de que todos los miembros del equipo tengan un dispositivo de comunicación cifrado para
+  coordinar la retirada.
 
 ## Notas del Consejo
 
