@@ -14,9 +14,14 @@ Satélite Congelador y respaldo si la Fortaleza Prohibida cae.
 Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si patrullara esta zona, pero según Mystique,
 su ruta habitual pasa a 200,000 km de distancia.
 
+## Coordenadas
+
+- Latitud: 3.5° S
+- Longitud: 23.4° E
+
 ## Instalaciones
 
-- Laboratorio de clonación (preparándose para el Proyecto Krypton)
+- Laboratorio de clonación (preparándose para el Proyecto Krypton v2.0)
 - Taller de ensamblaje satelital (Glaciar-1 se construye aquí)
 - Módulo de comunicaciones de largo alcance (antena de Brainiac)
 - Invernadero hidropónico (suministro de alimentos limitado)
