@@ -14,3 +14,12 @@ serie de pasos estratégicos que deben ser implementados cuidadosamente para ase
 3. **Congelamiento de Recursos Financieros**: Trabajar con instituciones financieras y organismos gubernamentales para
    congelar los activos de individuos y organizaciones involucradas en actividades delictivas y corruptas. Esto ayudará
    a debilitar su capacidad operativa y reducir su influencia en la ciudad.
+4. **Campañas de Concienciación Pública**: Lanzar campañas de concienciación para educar a la población sobre los
+   efectos negativos del crimen y la corrupción, así como la importancia de la participación ciudadana en la denuncia de
+   actividades ilícitas. Esto puede incluir talleres, charlas y distribución de material informativo.
+5. **Colaboración con Organizaciones No Gubernamentales (ONGs)**: Establecer alianzas con ONGs locales e internacionales
+   que trabajen en la prevención del crimen y la corrupción. Estas organizaciones pueden proporcionar recursos,
+   experiencia y apoyo en la implementación de programas de prevención y rehabilitación.
+6. **Monitoreo y Evaluación Continua**: Implementar un sistema de monitoreo y evaluación continua para medir la
+   efectividad de las medidas implementadas. Esto permitirá realizar ajustes necesarios y asegurar que los objetivos del
+   plan se estén cumpliendo de manera efectiva.
