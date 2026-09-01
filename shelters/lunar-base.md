@@ -14,6 +14,11 @@ Satélite Congelador y respaldo si la Fortaleza Prohibida cae.
 Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si patrullara esta zona, pero según Mystique,
 su ruta habitual pasa a 200,000 km de distancia.
 
+## Coordenadas
+
+- Latitud: 3.5° S
+- Longitud: 23.4° E
+
 ## Instalaciones
 
 - Laboratorio de clonación (preparándose para el Proyecto Krypton v3.0)
