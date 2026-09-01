@@ -18,6 +18,7 @@ objetivo.
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
 📄 nuevas-misiones.yaml    → Estado global de todas las nuevas misiones
+📄 README.md        → Documentación principal del repositorio
 ```
 
 ## El Consejo de Villanos
