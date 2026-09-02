@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/porto2198/evil-legion)
 ![Issues](https://img.shields.io/github/issues/porto2198/evil-legion)
 ![Último commit](https://img.shields.io/github/last-commit/porto2198/evil-legion)
-![Licencia](https://img.shields.io/github/license/porto2198/evil-legion)
+![Licencia](https://img.shields.io/github/license/porto2198/evil-legion?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
