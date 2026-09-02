@@ -1,3 +1,13 @@
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Última--versión-blue)
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/porto2198/evil-legion/ci.yml)
+![Release](https://img.shields.io/github/v/release/porto2198/evil-legion)
+![Issues](https://img.shields.io/github/issues/porto2198/evil-legion)
+![Último commit](https://img.shields.io/github/last-commit/porto2198/evil-legion)
+![Licencia](https://img.shields.io/github/license/porto2198/evil-legion)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
