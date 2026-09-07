@@ -1,8 +1,8 @@
 ---
 name: Software Bug Report Template
 about: Help us improve
-title: 'Bug:'
-labels: bug, enhancement
+title: 'Bug: '
+labels: bug, enhancement, Software Enhancement
 assignees: porto2198
 type: Bug
 
