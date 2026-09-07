@@ -9,3 +9,17 @@ estudiante que adquiere sus poderes tras ser mordido por una araña radiactiva.
 
 - Doctor Octopus
 - Green Goblin
+
+# Familiares
+
+- Tía May
+- Tío Ben
+- Mary Jane Watson
+- Gwen Stacy
+- Harry Osborn
+
+# Películas
+
+- Spider-Man: Homecoming (2017)
+- Spider-Man: Far From Home (2019)
+- Spider-Man: No Way Home (2021)
