@@ -9,3 +9,11 @@ estudiante que adquiere sus poderes tras ser mordido por una araña radiactiva.
 
 - Doctor Octopus
 - Green Goblin
+
+# Familiares
+
+- Tía May
+- Tío Ben
+- Mary Jane Watson
+- Gwen Stacy
+- Harry Osborn
