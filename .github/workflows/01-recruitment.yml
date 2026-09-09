@@ -1,0 +1,11 @@
+name: Agent Recruitment
+
+on: push
+
+jobs:
+  recruitment-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: The agent introduces himself
+        run: echo "I am Lex Luthor, and I am the leader of the Legion of Evil"
