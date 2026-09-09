@@ -19,3 +19,18 @@ jobs:
           echo "Repository: ${{ github.repository }}"
           echo "Operation: ${{ github.sha }}"
           echo "Metadata: ${{ toJSON(github) }}"
+
+      - name: Agent Capabilities
+        run: |
+          echo "Identified capabilities:"
+          echo "Operating System"
+          uname -a
+          echo "Technical Skills"
+          node --version
+          git --version
+          python3 --version
+
+      - name: Site Survey
+        run: |
+          echo "Site Survey"
+          ls /
