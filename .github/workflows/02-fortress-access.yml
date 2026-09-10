@@ -1,0 +1,17 @@
+name: 🗼 Access to the Forbidden Fortress
+
+on: push
+
+jobs:
+  access-to-the-database:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: The agent introduces himself
+        run: |
+          echo "Agent ${{ github.actor }} arrives at the fortress"
+          echo ""
+          echo "Search the Legion's archives"
+          ls -la
+          echo ""
+          echo "❌ But what happened? There's nothing there."
