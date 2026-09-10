@@ -1,6 +1,7 @@
 name: 🗼 Access to the Forbidden Fortress
 
-on: push
+on:
+  workflow_dispatch:
 
 jobs:
   access-to-the-database:
