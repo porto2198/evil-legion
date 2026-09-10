@@ -1,0 +1,22 @@
+name: Legion Spokesperson
+
+on:
+  workflow_dispatch:
+    inputs:
+      villain:
+        description: "Which villain is sending the message?"
+        required: true
+        type: choice
+        options:
+          - Lex Luthor
+          - Magneto
+          - Joker
+          - Mystique
+          - Brainiac
+
+jobs:
+  send-a-message:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
