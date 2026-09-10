@@ -1,6 +1,8 @@
 name: Agent Recruitment
 
-on: push
+#on: push
+on:
+  workflow_dispatch:
 
 jobs:
   recruitment-report:

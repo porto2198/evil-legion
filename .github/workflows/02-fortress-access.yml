@@ -15,3 +15,19 @@ jobs:
           ls -la
           echo ""
           echo "❌ But what happened? There's nothing there."
+
+      - name: 'Brainiac unlocks the vault'
+        uses: actions/checkout@v4
+
+      - name: Now then, let's take a look at the plans
+        run: |
+          echo "Search the Legion's archives"
+          ls -la
+          echo "✅ It works!!!"
+          echo ""
+          echo "Plans:"
+          ls plans/
+          echo "Villains:"
+          ls villains/
+          echo "Intelligence:"
+          ls intelligence/
