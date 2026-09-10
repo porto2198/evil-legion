@@ -1,14 +1,14 @@
 name: Daily Domination Report
 on:
-  schedule:
-    # The cron fields are, in order:
-    #  ┌───────────── minute (0 - 59)
-    #  │ ┌───────────── time (0 - 23)
-    #  │ │ ┌───────────── day of the month (1 - 31)
-    #  │ │ │ ┌───────────── month (1 - 12)
-    #  │ │ │ │ ┌───────────── day of the week (0 - 6; 0 = Sunday)
-    #  │ │ │ │ │
-    - cron: "0 8 * * *"  # Every day at 8:00 UTC
+  #  schedule:
+  #    # The cron fields are, in order:
+  #    #  ┌───────────── minute (0 - 59)
+  #    #  │ ┌───────────── time (0 - 23)
+  #    #  │ │ ┌───────────── day of the month (1 - 31)
+  #    #  │ │ │ ┌───────────── month (1 - 12)
+  #    #  │ │ │ │ ┌───────────── day of the week (0 - 6; 0 = Sunday)
+  #    #  │ │ │ │ │
+  #    - cron: "0 8 * * *"  # Every day at 8:00 UTC
   workflow_dispatch:
 
 permissions:
