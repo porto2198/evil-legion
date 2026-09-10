@@ -33,10 +33,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Install the Legion Transmitter
+        run: sudo apt-get install -y cowsay
+
       - name: Print inputs
         run: |
-          echo "Inputs:"
+          echo "============================"
+          echo "  Intercepted Transmission  "
+          echo "============================"
           echo ""
-          echo "Villain: ${{ inputs.villain }}"
-          echo "Level: ${{ inputs.priority }}"
-          echo "Message: ${{ inputs.message }}"
+          echo "From: ${{ inputs.villain }}"
+          echo ""
+          echo "Date: $(date -u +"%d/%m/%Y - %H:%M UTC")"
+          echo "--------- Message ---------"
+          cowsay -f eyes "${{ inputs.message }}"
+          echo ""
+          echo "--- ${{ inputs.villain }}"
+          echo "..."
