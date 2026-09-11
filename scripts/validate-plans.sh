@@ -83,8 +83,8 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "📋 Rule #3: Checking villain records..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-if ls villains/*.yml 1>/dev/null 2>&1; then
-  for record in villains/*.yml; do
+if ls members/*.yml 1>/dev/null 2>&1; then
+  for record in members/*.yml; do
     NAME=$(grep "^nombre:" "$record" | head -1 | sed 's/nombre: *//;s/"//g')
 
     if [ -z "$NAME" ]; then
@@ -112,8 +112,8 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "📋 Checking hero intelligence..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-if ls intelligence/*.md 1>/dev/null 2>&1; then
-  TOTAL_DOSSIERS=$(ls intelligence/*.md | wc -l)
+if ls intelligence/losers/*.md 1>/dev/null 2>&1; then
+  TOTAL_DOSSIERS=$(ls intelligence/losers/*.md | wc -l)
 
   echo "  📁 $TOTAL_DOSSIERS hero dossiers found in the database."
 
