@@ -1,0 +1,48 @@
+# ╔══════════════════════════════════════════════════════╗
+# ║  WORKFLOW SABOTAGED - TROUBLESHOOTING EXERCISE       ║
+# ║                                                      ║
+# ║  A Batman spy has sabotaged this workflow.           ║
+# ║  It has a RUN-TIME ERROR.                            ║
+# ║                                                      ║
+# ║  Your mission:                                       ║
+# ║  1. Upload this file to the repository               ║
+# ║  2. The workflow WILL run (unlike                    ║
+# ║     YAML error)                                      ║
+# ║  3. Go to the workflow logs on the Actions tab       ║
+# ║  4. Find out which step is failing and why           ║
+# ║  5. Fix the error and push again                     ║
+# ╚══════════════════════════════════════════════════════╝
+
+name: 🔍 Brainiac Security Scan
+on: push
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Brainiac enters the base
+        uses: actions/checkout@v4
+
+      - name: Scan Legion blueprints
+        run: |
+          echo "🔍 Scanning Plans..."
+          ls plans/
+          echo "✅ Verified Plans."
+
+      - name: Scan Villain Profiles
+        run: |
+          echo "🔍 Scanning Villain Profiles..."
+          ls members/
+          echo "✅ Verified Profiles."
+
+      - name: Scan for intelligence on heroes
+        run: |
+          echo "🔍 Scanning Heroes' Files..."
+          ls intelligence/
+          echo "✅ Verified records."
+
+      - name: Final Report
+        run: |
+          echo "📊 SAFETY REPORT"
+          echo "======================"
+          echo "All systems have been verified."
+          echo "Brainiac: 'The base is secure. For now.'"
