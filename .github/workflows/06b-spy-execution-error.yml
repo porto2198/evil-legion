@@ -37,7 +37,7 @@ jobs:
       - name: Scan for intelligence on heroes
         run: |
           echo "🔍 Scanning Heroes' Files..."
-          ls intelligence/
+          ls intelligence/losers/
           echo "✅ Verified records."
 
       - name: Final Report
