@@ -23,3 +23,10 @@ estudiante que adquiere sus poderes tras ser mordido por una araña radiactiva.
 - Spider-Man: Homecoming (2017)
 - Spider-Man: Far From Home (2019)
 - Spider-Man: No Way Home (2021)
+
+## Estrategia recomendada
+
+Se recomienda no enfrentarse a Spiderman directamente, ya que su agilidad y sentido arácnido le permiten esquivar
+ataques con facilidad. En su lugar, se sugiere utilizar distracciones y ataques a distancia para debilitarlo antes de un
+enfrentamiento directo. Además, es importante tener en cuenta su red de aliados y familiares, ya que pueden ser
+utilizados como palanca para influir en sus decisiones.
