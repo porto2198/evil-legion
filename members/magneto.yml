@@ -6,7 +6,7 @@ nombre: "Magneto"
 nombre_real: "Erik Lehnsherr"
 universo: Marvel
 rango: "Segundo al mando"
-estado: activo
+estado: inactivo
 
 perfil:
   identidad_publica: "Líder del movimiento mutante. Buscado internacionalmente."
