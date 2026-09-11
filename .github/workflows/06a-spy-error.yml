@@ -1,0 +1,22 @@
+# ╔══════════════════════════════════════════════════════╗
+# ║     WORKFLOW SABOTAGED - TROUBLESHOOTING EXERCISE    ║
+# ║                                                      ║
+# ║  A Batman spy has sabotaged this workflow.           ║
+# ║  It has a YAML SYNTAX ERROR.                         ║
+# ╚══════════════════════════════════════════════════════╝
+
+name: 📡 Emergency Broadcast
+on:
+  workflow_dispatch: # You can also run it manually for the in-class demo
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send an alert to the Forbidden Fortress
+        run: echo "🚨 Emergency alert sent to the Council”
+
+      - name: Confirm receipt from Brainiac
+        run: echo "✅ Brainiac confirms receipt of the alert”
+
+      - name: Activate defense protocol
+        run: echo "🛡️ Defense protocol activated by Magneto”
