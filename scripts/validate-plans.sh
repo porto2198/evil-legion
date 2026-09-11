@@ -117,7 +117,7 @@ if ls intelligence/losers/*.md 1>/dev/null 2>&1; then
 
   echo "  📁 $TOTAL_DOSSIERS hero dossiers found in the database."
 
-  for dossier in intelligence/*.md; do
+  for dossier in intelligence/losers/*.md; do
     HERO_NAME=$(basename "$dossier" .md)
 
     if ! grep -q "## Estrategia recomendada" "$dossier"; then
@@ -129,7 +129,7 @@ if ls intelligence/losers/*.md 1>/dev/null 2>&1; then
     fi
   done
 else
-  echo "  ⚠️  No intelligence dossiers were found in intelligence/"
+  echo "  ⚠️  No intelligence dossiers were found in intelligence/losers"
   WARNINGS=$((WARNINGS + 1))
 fi
 
