@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send an alert to the Forbidden Fortress
-        run: echo "🚨 Emergency alert sent to the Council”
+        run: echo "🚨 Emergency alert sent to the Council"
 
       - name: Confirm receipt from Brainiac
-        run: echo "✅ Brainiac confirms receipt of the alert”
+        run: echo "✅ Brainiac confirms receipt of the alert"
 
       - name: Activate defense protocol
-        run: echo "🛡️ Defense protocol activated by Magneto”
+        run: echo "🛡️ Defense protocol activated by Magneto"
