@@ -10,3 +10,8 @@ ejecución.
 5. Establecer un sistema de comunicación seguro para coordinar la operación y evitar interferencias de los héroes.
 6. Implementar medidas de seguridad para proteger la Base Lunar y otros puntos estratégicos de posibles ataques de los
    héroes.
+
+## Plan de escape
+
+- **Rutas de Evacuación**: Identificar y señalizar rutas de evacuación seguras para los miembros del Consejo y aliados
+  cercanos en caso de emergencias.

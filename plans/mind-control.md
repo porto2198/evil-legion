@@ -13,3 +13,10 @@ responsabilidad.
 3. Crear un plan de acción: Diseñar un plan detallado que incluya las técnicas
 4. Implementar técnicas de persuasión: Utilizar técnicas de persuasión como la repetición, la autoridad, la reciprocidad
    y la simpatía para influir en la mente del objetivo.
+
+## Plan de escape
+
+- **Rutas de Evacuación**: Identificar y señalizar rutas de evacuación seguras para los ciudadanos en caso de
+  emergencias.
+- **Centros de Refugio**: Establecer centros de refugio temporales en diferentes puntos de la ciudad para proporcionar
+  asistencia a los ciudadanos durante situaciones de crisis.

@@ -23,3 +23,10 @@ serie de pasos estratégicos que deben ser implementados cuidadosamente para ase
 6. **Monitoreo y Evaluación Continua**: Implementar un sistema de monitoreo y evaluación continua para medir la
    efectividad de las medidas implementadas. Esto permitirá realizar ajustes necesarios y asegurar que los objetivos del
    plan se estén cumpliendo de manera efectiva.
+
+## Plan de escape
+
+- **Rutas de Evacuación**: Identificar y señalizar rutas de evacuación seguras para los ciudadanos en caso de
+  emergencias.
+- **Centros de Refugio**: Establecer centros de refugio temporales en diferentes puntos de la ciudad para proporcionar
+  asistencia a los ciudadanos durante situaciones de crisis.
