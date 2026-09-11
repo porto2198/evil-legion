@@ -1,0 +1,20 @@
+name: Quality Control
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  quality-review:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Brainiac agrees to the plans
+        uses: actions/checkout@v4
+
+      - name: The board reviews the changes
+        run: |
+          chmod +x scripts/validate-plans.sh
+          ./scripts/validate-plans.sh
